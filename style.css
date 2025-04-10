@@ -104,10 +104,10 @@ body{
 
 @media screen and (max-width: 600px) {
     .banner .content{
-        transform: translate(-55%, -70%);
+        transform: translate(-50%, -70%);
     }
 
     .banner .content h1{
-        font-size: 10rem;
+        font-size: 9rem;
     }
 } 
